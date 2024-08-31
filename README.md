@@ -1,2 +1,2 @@
-# pneumonia-detection
-pneumonia-detection-using-computer_vision
+# Detect-Pneumonia
+ 
